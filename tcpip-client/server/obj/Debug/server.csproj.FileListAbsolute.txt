@@ -1,0 +1,6 @@
+C:\Users\FBabd\source\repos\tcpip\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\FBabd\source\repos\tcpip\server\obj\Debug\server.csproj.SuggestedBindingRedirects.cache
+C:\Users\FBabd\source\repos\tcpip\server\obj\Debug\tcpip.Form1.resources
+C:\Users\FBabd\source\repos\tcpip\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\FBabd\source\repos\tcpip\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\FBabd\source\repos\tcpip\server\obj\Debug\server.csproj.CoreCompileInputs.cache
